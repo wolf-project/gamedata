@@ -1,2 +1,3 @@
 # Site Game Data
-Site experimental em html5 e ccs3.
+Site em html5 e ccs3.
+http://www.gamedata.com.br/
