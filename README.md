@@ -1,3 +1,3 @@
 # Site Game Data
-Site em html5 e ccs3.
+Site em html5 e css3.
 http://www.gamedata.com.br/
